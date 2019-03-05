@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "template_name": "mail.docx",
+    "band_name": "A",
+    "output_format": "pdf"
+  },
+  "data": {
+    "first_name": "Аннамарiя",
+    "last_name": "Давидовiч-Лаврiненко",
+    "middle_name": "Леопольдовна",
+    "loan_agreement_number": "1-20180714-43546",
+    "as_of_date": "17.06.2017",
+    "loan_agreement_start_date": "2016-06-17",
+    "arrears_amount": 7800.32,
+    "registration_address": "м. Киев, Повiтрофлотський пр-т, б. 128/2Б, кв. 137"
+  }
+}
